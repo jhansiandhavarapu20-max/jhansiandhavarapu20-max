@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jhansi Andhavarapu
 
-<!--
-**jhansiandhavarapu20-max/jhansiandhavarapu20-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- B.Tech 3rd Year student in Artificial Intelligence and Data Science.
+- Diploma graduate in Computer Science Engineering.
+- Interested in Artificial Intelligence, Machine Learning and Software Development.
+- Currently improving my Python and Machine Learning skills.
+- Passionate about learning new technologies and building projects.
 
-Here are some ideas to get you started:
+### 💻 Technical Skills
+- **Programming Language:** Python
+- **Machine Learning:** Linear Regression, Support Vector Machine (SVM)
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **Course Tracker:** A web application to manage courses and track learning progress.
+- **Banking Management System:** A project developed using programming concepts.
+- **Coronavirus Prediction:** An academic prediction project.
+
+### 📚 Currently Learning
+- NumPy and Pandas
+- Machine Learning
+- Data Analysis
+- Practical Python Development
+
+### 🎯 Career Goal
+Aspiring Software Developer and AI/ML Engineer, looking for opportunities to learn, contribute and gain practical industry experience.
+
+### 📫 Connect With Me
+- GitHub: https://github.com/jhansiandhavarapu20-max
+
+⭐ Thank you for visiting my profile!
